@@ -110,7 +110,7 @@ http://localhost:5000/api/tasks
 
 Or use deployed API:
 
-https://task-management-api-bmz2.onrender.com/api/tasks
+ https://task-management-54ll.onrender.com/api/tasks
 
 
 ---
