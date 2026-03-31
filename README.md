@@ -10,22 +10,22 @@ for a task management application.
 ## 🌐 Deployed API
 You can use the live API here:
 
-https://task-management-api-bmz2.onrender.com/api/tasks
+https://task-management-54ll.onrender.com/api/tasks
 
 ---
 ## 🧪 Example API Requests
 
 ### Get All Tasks
-GET https://task-management-api-bmz2.onrender.com/api/tasks
+GET https://task-management-54ll.onrender.com/api/tasks
 
 ### Create Task
-POST https://task-management-api-bmz2.onrender.com/api/tasks
+POST https://task-management-54ll.onrender.com/api/tasks
 
 ### Update Task
-PATCH https://task-management-api-bmz2.onrender.com/api/tasks/:id
+PATCH https://task-management-54ll.onrender.com/api/tasks/:id
 
 ### Delete Task
-DELETE https://task-management-api-bmz2.onrender.com/api/tasks/:id
+DELETE https://task-management-54ll.onrender.com/api/tasks/:id
 
 ---
 ## 🚀 Features
